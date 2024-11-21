@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+ 
 }
 
 html {
@@ -387,6 +388,7 @@ article.icon{
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+ 
 }
 
 .contact-info-upper-container{
@@ -430,6 +432,7 @@ footer{
 footer p{
   text-align:center;
 }
+
 
 
 
